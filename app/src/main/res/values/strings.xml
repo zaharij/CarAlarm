@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CarAlarm</string>
+    <string name="alarm_disarmed_all_unlocked_str">Alarm Disarmed, All Unlocked</string>
+    <string name="alarm_disarmed_all_locked_str">Alarm Disarmed, All Locked</string>
+    <string name="alarm_armed_all_locked_str">Alarm Armed, All Locked</string>
+    <string name="alarm_disarmed_driver_unlocked_str">Alarm Disarmed, Driver Unlocked</string>
+</resources>
